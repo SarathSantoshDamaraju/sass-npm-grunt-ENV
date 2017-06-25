@@ -1,5 +1,5 @@
 # sass-npm-grunt-ENV
-Dev environment with SAAS, NPM and Grunt.
+Dev environment with SASS, NPM and Grunt.
 
 Please refer here for full tutorial : https://medium.com/small-things/5-steps-to-setup-sass-with-grunt-and-nodejs-for-beginners-e6d7512fcb7b
 
